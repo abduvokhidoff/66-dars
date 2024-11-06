@@ -1,0 +1,114 @@
+
+ body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.box{
+    display: flex;
+    align-items: center;
+} 
+.box_first{
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid black;
+} 
+.first_№{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70px;
+}
+.first_name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+}
+.first_status{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+}
+.first_edit{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70px;
+}
+.first_delete{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70px;
+}
+.first_№ p{
+font-family: Roboto;
+font-weight: 700;
+font-size: 20px;
+}
+.first_name p{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 20px;
+}
+.first_status p{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 20px;
+}
+.first_edit p{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 20px;
+}
+.first_delete p{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.editbtn_img{
+    width: 20px;
+}
+.deletebtn_img{
+    width: 20px;
+}
+.box_№{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70px;
+}
+.box_name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+}
+.box_status{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+}
+.box_edit{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70px;
+}
+.box_delete{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70px;
+}
